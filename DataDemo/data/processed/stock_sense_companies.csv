@@ -1,0 +1,34 @@
+symbol,company,sector,sub_industry,headquarters,founded
+APD,Air Products,Materials,Industrial Gases,"Upper Macungie Township, Pennsylvania",1940
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",1998
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,"Seattle, Washington",1994
+AMT,American Tower,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",1995
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1977
+BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",1998 (1923 / 1874)
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1925
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"Houston, Texas",1879
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1886
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2002
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1976
+DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1904
+EQIX,Equinix,Real Estate,Data Center REITs,"Redwood City, California",1998
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1999
+GE,GE Aerospace,Industrials,Aerospace & Defense,"Evendale, Ohio",1892
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1978
+HON,Honeywell Technologies,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1906
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1886
+JPM,JPMorgan Chase,Financials,Diversified Banks,"New York City, New York",2000 (1799 / 1871)
+LLY,Lilly (Eli),Health Care,Pharmaceuticals,"Indianapolis, Indiana",1876
+LIN,Linde plc,Materials,Industrial Gases,"Guildford, United Kingdom",1879
+META,Meta Platforms,Communication Services,Interactive Media & Services,"Menlo Park, California",2004
+MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1975
+NFLX,Netflix,Communication Services,Movies & Entertainment,"Los Gatos, California",1997
+NEE,NextEra Energy,Utilities,Multi-Utilities,"Juno Beach, Florida",1984 (1925)
+NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",1993
+PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",1983
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1866
+SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1945
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2003
+UNH,UnitedHealth Group,Health Care,Managed Health Care,"Eden Prairie, Minnesota",1977
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,"San Francisco, California",1958
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1962

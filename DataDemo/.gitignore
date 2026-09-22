@@ -1,0 +1,9 @@
+# Keep the large Kaggle download out of the published repository.
+data/raw/
+
+# Kept only as a local archive; Stock Sense is the published site.
+archive/
+energy-data.csv
+
+# Local operating-system files.
+.DS_Store
