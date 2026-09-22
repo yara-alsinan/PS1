@@ -1,4 +1,5 @@
 name: Deploy Stock Sense
+# Publish the static site from the DataDemo folder.
 
 on:
   push:
