@@ -1,11 +1,11 @@
 name: Deploy Stock Sense
-# Publish the static site from the DataDemo folder.
+# Publish the static site from the Stock Sense website folder.
 
 on:
   push:
     branches: [main]
     paths:
-      - "DataDemo/**"
+      - "website (Stock Sense)/**"
       - ".github/workflows/deploy-stock-sense.yml"
   workflow_dispatch:
 
@@ -32,7 +32,7 @@ jobs:
       - name: Upload Stock Sense
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./DataDemo"
+          path: "./website (Stock Sense)"
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

@@ -1,4 +1,4 @@
-const dataUrl = "data/processed/stock_sense_data.csv";
+const dataUrl = "data%20%28csv%20files%29/stock_sense_data.csv";
 const $ = (s) => document.querySelector(s);
 const $$ = (s) => [...document.querySelectorAll(s)];
 const colors = ["#5e9b83", "#d66e59", "#719ea0"];
