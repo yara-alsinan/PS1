@@ -7,3 +7,6 @@ energy-data.csv
 
 # Local operating-system files.
 .DS_Store
+
+# Private presentation build files.
+.stock-sense-deck-build/
